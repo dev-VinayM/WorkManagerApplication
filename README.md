@@ -1,4 +1,4 @@
-# WorkManagerApplication - An Android Project to demostrate the use of WorkManager Jetpack Library.
+# WorkManagerApplication - An Android Project to demonstrate the use of WorkManager Jetpack Library.
 # About WorkManager : <br />
 WorkManager is not for task that needs to be run in a background thread but don`t need to survive process death - for such tasks, use coroutines or RxJava
 
